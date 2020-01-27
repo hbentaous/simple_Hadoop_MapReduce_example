@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import sys
 import string
-stopwords = set(['the', 'and'])
+stopwords = set(['the', 'and', 'i'])
 
 
 # get all lines from stdin
